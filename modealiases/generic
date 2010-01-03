@@ -7,7 +7,6 @@ keysections:
 identity:
   name=Generic mode aliases
   globaldefault=true
-  modealiasversion=2
 
 server:
 # -- 1459 --
