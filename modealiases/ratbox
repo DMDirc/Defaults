@@ -1,4 +1,5 @@
 # 0000799: Missing mode aliases: user: +zcekfynbuglZCD [EFNet]
+# http://svn.ratbox.org/svnroot/ircd-ratbox/trunk/src/channel.c
 
 keysections:
   identity
@@ -9,6 +10,9 @@ identity:
   ircd=ratbox
 
 server:
+  moder=Registered users only
+  modeS=SSL users only
+
   umodea=Server admin
   umodeb=Receive bot detection notices
   umodec=Show client connections
