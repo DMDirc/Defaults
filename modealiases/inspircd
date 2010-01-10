@@ -1,5 +1,6 @@
 # Default mode settings for inspircd
 # CHANMODES=Ibeg,k,FJLfjl,CGKMNOPQRSTVcimnpstuz
+# http://wiki.inspircd.org/1.2/Channel_Modes
 
 keysections:
   identity
@@ -10,6 +11,7 @@ identity:
   ircd=inspircd
 
 server:
+  modeA=Allow anybody to invite
   modeC=No channel CTCPs
   modeG=No censored words
   modeJ=No auto-rejoin
