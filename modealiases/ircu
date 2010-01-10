@@ -17,6 +17,7 @@ server:
   moded=Auditorium mode
   enablemoded=false
   moder=Registered users only
+  modeR=Registered
   modeS=Strip all colours
   modeT=No multi-target messages
   modeU=User password
