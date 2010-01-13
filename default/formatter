@@ -158,6 +158,7 @@ formatter:
 #    3: User host
 #    4: Message content
   privateNotice=5-%1$s- %4$s
+  serverNotice=-%1$s- %4s
   queryMessage=<%1$s> %4$s
   queryAction=6* %1$s %4$s
   querySelfMessage=<%1$s> %4$s

@@ -75,6 +75,7 @@ notifications:
   socketClosed=all
   stonedServer=all
   privateNotice=all
+  serverNotice=server
   privateCTCP=server
   privateCTCPreply=lastcommand:ctcp %1$s %4$S
   wallusers=server
