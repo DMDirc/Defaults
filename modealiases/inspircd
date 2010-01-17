@@ -12,6 +12,7 @@ identity:
 
 server:
   modeA=Allow anybody to invite
+  modeB=Block messages with too many caps
   modeC=No channel CTCPs
   modeG=No censored words
   modeJ=No auto-rejoin
