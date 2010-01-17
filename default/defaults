@@ -68,6 +68,7 @@ notifications:
   away=server
   back=server
   unknownNotice=server
+  channelListModeRetrieved=none
   connectError=server
   connectRetry=server
   selfNickChange=server
