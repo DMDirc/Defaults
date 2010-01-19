@@ -31,7 +31,8 @@ server:
 
   modeg=Censored word
 
-  modeu=Auditorium mode
+  modeD=Auditorium mode
+  modeu=Hide all names
   modeF=Flood limit
 
   modea=Protected
