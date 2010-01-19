@@ -41,10 +41,12 @@ server:
   # BHcn http://wiki.inspircd.org/1.2/User_Modes
   umodeB=Bot
   umodec=Only users in comchannels may query
+  umodeg=Caller ID mode
   umodeG=Filter bad works
   umodeh=HelpOp
   umodeH=Hide IRCop status
   umodeI=Hide channels
+  umodek=God mode
   umoden=Server notice mask
   umodeQ=Invisible IRCop
   umoder=Registered
