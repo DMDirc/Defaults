@@ -264,7 +264,6 @@ icon:
   category-urlhandlers=dmdirc://com/dmdirc/res/urls.png
 
 ssl:
-  cacertpass=changeit
   checkdate=true
   checkissuer=true
   checkhost=true
