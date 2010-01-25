@@ -83,6 +83,9 @@ notifications:
   wallops=server
   walldesync=server
 
+  channelUserAwayDiscovered=none
+  channelUserBackDiscovered=none
+
   numeric_006=group:map
   numeric_007=group:map
   numeric_015=group:map

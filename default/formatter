@@ -98,6 +98,8 @@ formatter:
   channelSelfJoin=3* You are now talking in %5$s.
   channelUserAway=14-- %1$s%2$s is now away.
   channelUserBack=14-- %1$s%2$s is now back.
+  channelUserAwayDiscovered=14-- %1$s%2$s is away.
+  channelUserBackDiscovered=14-- %1$s%2$s is back.
 
 # Type: Channel Event with content
 #    1: User mode prefixes
