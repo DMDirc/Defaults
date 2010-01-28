@@ -147,7 +147,7 @@ ui:
   antialias=true
   awayindicator=true
   backgroundcolour=0
-  confirmQuit=false
+  confirmQuit=true
   foregroundcolour=1
   frameBufferSize=25000
   framemanager=com.dmdirc.addons.ui_swing.framemanager.tree.TreeFrameManager
