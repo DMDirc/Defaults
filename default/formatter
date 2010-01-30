@@ -285,6 +285,4 @@ formatter:
   numeric_hybrid_501=6A7000%4$s
   numeric_524=6A7000%4$s: %5$s
 
-  numeric_671=%4$s %5$s.
-
   numeric_705=%5$s

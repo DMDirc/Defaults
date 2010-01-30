@@ -131,8 +131,6 @@ notifications:
   numeric_501=server
   numeric_524=server
 
-  numeric_671=group:whois
-
   numeric_705=server
 
   lusers=server
