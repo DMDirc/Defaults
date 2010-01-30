@@ -256,16 +256,11 @@ formatter:
   numeric_294=%4$s
 
   numeric_301=%4$s is away: %5$s
-  numeric_307=%4$s %5$s.
   numeric_311=-\n%4$s is %5$s@%6$s (%8$s).
   numeric_312=%4$s is connected to %5$s (%6$s).
-  numeric_313=%4$s %5$s.
   numeric_317=%4$s has been idle for %5$u; signed on at %6$TT on %6$TF.
   numeric_318=End of WHOIS info for %4$s.\n-
   numeric_319=%4$s is on: %5$s
-  numeric_320=%4$s %5$s.
-  numeric_330=%4$s %6$s %5$s.
-  numeric_343=%4$s %6$s %5$s.
 
   numeric_401=6A7000%4$s: %5$s
   numeric_404=6A7000%5$s
