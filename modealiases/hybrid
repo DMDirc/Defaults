@@ -7,8 +7,8 @@ keysections:
   server
 
 identity:
-  name=Hyrbid mode aliases
-  ircd=re:(oftc-)?hybrid
+  name=Hybrid mode aliases
+  ircd=re:(oftc-)?hybrid|scoutlink
 
 server:
   modeR=Registered users only
