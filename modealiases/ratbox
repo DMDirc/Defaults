@@ -7,7 +7,7 @@ keysections:
 
 identity:
   name=Ratbox mode aliases
-  ircd=ratbox
+  ircd=re:ratbox|linknet
 
 server:
   moder=Registered users only
