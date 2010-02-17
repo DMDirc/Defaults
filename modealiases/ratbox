@@ -19,6 +19,7 @@ server:
   umodeC=Show client connections
   umodeD=Deaf
 #  umodee=??
+  umodeI=Hide idle time
   umodef=Show excess connections
   umodeg=Caller ID mode
   umodek=Show kills
