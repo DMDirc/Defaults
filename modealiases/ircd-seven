@@ -23,6 +23,7 @@ server:
   moder=Registered users only
   modej=Join throttling
   modez=Reduced moderation
+  modeS=SSL'd users only
 
   umodeD=Deaf
   umodeQ=Immune to forwards
