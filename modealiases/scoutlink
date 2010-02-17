@@ -1,0 +1,34 @@
+# Hybrid and oftc-hybrid mode aliases
+# http://www.oftc.net/oftc/ChannelModes
+# http://www.oftc.net/oftc/UserModes
+
+keysections:
+  identity
+  server
+
+identity:
+  name=Scoutlink mode aliases
+  ircd=scoutlink
+
+server:
+modeA=Tech team only
+modeB=No bots
+#modeC=
+modeK=Notify of failed joins
+modeR=Registered users only
+moded=No repeats
+modeS=Anti spam mode
+modeO=Operators Only
+#moder=
+#modeL=
+#modeX=
+modef=Flood limit
+
+#umodeA=
+#umodeB=
+#umodeh=
+#umodeH=
+#umodeN=
+#umodep=
+#umodeT=
+#umodev=
