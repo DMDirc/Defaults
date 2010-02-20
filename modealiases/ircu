@@ -24,3 +24,10 @@ server:
 
   umodeg=Receive debug information
   umodek=Services operator
+  umoden=Hide Channels
+  umodeI=Hide Idle time
+  umodeX=Extra Oper
+  umodeS=Sethost applied
+  umodeH=Hidden Oper
+  umodec=Override strip colours
+  umodeW=Web IRC user
