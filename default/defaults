@@ -265,6 +265,8 @@ ssl:
   checkdate=true
   checkissuer=true
   checkhost=true
+  clientcert.file=
+  clientcert.pass=
 
 actions:
   killswitch=false
