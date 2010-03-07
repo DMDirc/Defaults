@@ -163,6 +163,8 @@ ui:
   showversion=true
   stylelinks=true
   stylechannels=true
+  linkcolour=12
+  channelcolour=3
   treeviewActiveBackground=false:f0f0f0
   treeviewActiveBold=true
   treeviewActiveForeground=false:1
