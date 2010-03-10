@@ -40,7 +40,6 @@ general:
   commandchar=/
   commandhistory=10
   cyclemessage=Cycling
-  sendctcpreplies=true
   extendedListModes=false
   firstRun=true
   hidequeries=true
