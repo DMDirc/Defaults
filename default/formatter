@@ -169,6 +169,7 @@ formatter:
   querySelfExternalAction=6* %1$s %4$s
   queryNickChanged=3* %1$s is now known as %4$s.
   userModeChanged=3* %1$s sets user mode: %4$s.
+  userNoModes=3* No user modes.
   userModeDiscovered=3* User modes are: %4$s.
   queryQuitReason=2* %1$s has quit IRC (%4$s).
   queryMessageHighlight=4<%1$s> %4$s
