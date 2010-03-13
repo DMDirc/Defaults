@@ -42,7 +42,7 @@ formatter:
   channelMessage=<%1$s%2$s> %5$s
   channelHighlight=4<%1$s%2$s> %5$s
   channelAction=6* %1$s%2$s %5$s
-  channelHighlightAction=6* %1$s%2$s %5$s
+  channelHighlightAction=4* %1$s%2$s %5$s
   channelSelfMessage=<%1$s%2$s> %5$s
   channelSelfAction=6* %1$s%2$s %5$s
   channelSelfExternalMessage=<%1$s%2$s> %5$s
