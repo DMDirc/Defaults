@@ -29,7 +29,7 @@ formatter:
 #    5: Mode
 #    6: Message content
 #    7: Channel name
-  channelModeNotice=5-%1$s%2$s:%5$s%7$s- %6$s
+  channelModeNotice=5-%1$s%2$s:%5$s%7$s- %6$s
 
 # Type: Channel Message
 #    1: User mode prefixes
@@ -38,7 +38,7 @@ formatter:
 #    4: User host
 #    5: Message content
 #    6: Channel name
-  channelNotice=5-%1$s%2$s:%6$s- %5$s
+  channelNotice=5-%1$s%2$s:%6$s- %5$s
   channelMessage=<%1$s%2$s> %5$s
   channelHighlight=4<%1$s%2$s> %5$s
   channelAction=6* %1$s%2$s %5$s
