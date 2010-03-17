@@ -278,8 +278,8 @@ icon:
 
   smilie-:/=dmdirc://com/dmdirc/res/smilies/yellow/skeptical.png
   smilie-:-/=dmdirc://com/dmdirc/res/smilies/yellow/skeptical.png
-  smilie-:\=dmdirc://com/dmdirc/res/smilies/yellow/skeptical.png
-  smilie-:-\=dmdirc://com/dmdirc/res/smilies/yellow/skeptical.png
+  smilie-:\\=dmdirc://com/dmdirc/res/smilies/yellow/skeptical.png
+  smilie-:-\\=dmdirc://com/dmdirc/res/smilies/yellow/skeptical.png
 
 ssl:
   checkdate=true
