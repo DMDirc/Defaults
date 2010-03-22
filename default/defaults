@@ -43,6 +43,7 @@ general:
   extendedListModes=false
   firstRun=true
   hidequeries=true
+  hidechannels=false
   kickmessage=Bye!
   logerrors=false
   partmessage=Using DMDirc
