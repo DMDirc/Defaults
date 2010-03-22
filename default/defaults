@@ -167,11 +167,11 @@ ui:
   treeviewRolloverColour=false:f0f0f0
   useOneTouchExpandable=false
   channelSplitPanePosition=150
+  sortrootwindows=true
+  sortchildwindows=true
 
 treeview:
   dragSelection=true
-  sortwindows=true
-  sortservers=true
   backgroundcolour=false:0
   foregroundcolour=false:0
 
