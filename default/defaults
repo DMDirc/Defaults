@@ -24,6 +24,7 @@ keysections:
   temp
   dialogstate
   browser
+  commands
 
 identity:
   name=DMDirc default settings
@@ -311,3 +312,6 @@ dialogstate:
 browser:
   uselaunchdelay=true
   launchdelay=500
+
+commands:
+  join-tabexistingchannels=false
