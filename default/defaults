@@ -314,4 +314,4 @@ browser:
   launchdelay=500
 
 commands:
-  join-tabexistingchannels=false
+  join-tabexistingchannels=true
