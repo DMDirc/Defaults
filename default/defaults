@@ -41,6 +41,7 @@ general:
   commandchar=/
   commandhistory=10
   cyclemessage=Cycling
+  encoding=UTF-8
   extendedListModes=false
   firstRun=true
   hidequeries=true
