@@ -217,11 +217,11 @@ popups:
   chan-nick=-\nBan:ban %1$s\nKick:kick %1$s
   umodes=<umodes-op\n<umodes-voice
 
-  umodes-op=Op:mode +o %1$s\nDeop:mode -o %1$s
-  umodes-hop=Half-Op:mode +h %1$s\nDehalf-op:mode -o %1$s
-  umodes-voice=Voice:mode +v %1$s\nDevoice:mode -v %1$s
-  umodes-admin=Make admin:mode +a %1$s\nRemove admin:mode -a %1$s
-  umodes-owner=Make owner:mode +q %1$s\nRemove owner:mode -q %1$s
+  umodes-op=Op:6:mode +oooooo %1$s %2$s %3$s %4$s %5$s %6$s\nDeop:6:mode -oooooo %1$s %2$s %3$s %4$s %5$s %6$s
+  umodes-hop=Half-Op:6:mode +hhhhhh %1$s %2$s %3$s %4$s %5$s %6$s\nDehalf-op:6:mode -hhhhhh %1$s %2$s %3$s %4$s %5$s %6$s
+  umodes-voice=Voice:6:mode +vvvvvv %1$s %2$s %3$s %4$s %5$s %6$s\nDevoice:6:mode -vvvvvvv %1$s %2$s %3$s %4$s %5$s %6$s
+  umodes-admin=Make admin:6:mode +aaaaaa %1$s %2$s %3$s %4$s %5$s %6$s\nRemove admin:6:mode -aaaaaa %1$s %2$s %3$s %4$s %5$s %6$s
+  umodes-owner=Make owner:6:mode +qqqqqq %1$s %2$s %3$s %4$s %5$s %6$s\nRemove owner:6:mode -qqqqqq %1$s %2$s %3$s %4$s %5$s %6$s
 
   CHAN_NICK=<nick\n-\nModes:<umodes\n<chan-nick
   CHAN_NORMAL=
