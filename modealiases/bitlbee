@@ -7,4 +7,5 @@ identity:
   ircd=bitlbee
 
 server:
+  modeC=Control channel
   umodeb=Bot-friendly responses
