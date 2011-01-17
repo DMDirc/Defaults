@@ -1,6 +1,7 @@
 # Plexus mode aliases
 # http://www.rizon.net/vbulletin/showthread.php?t=27
 # http://www.rizon.net/vbulletin/showthread.php?t=26
+# http://code.google.com/p/ircd-rizon/source/browse/trunk/help/opers/umode
 
 keysections:
   identity
@@ -45,3 +46,5 @@ server:
   umodeR=Only registered users may query
   umodeS=SSL'd connection
   umodeW=CGI:IRC connection
+  umodeq=Receive SQUIT messages
+  umodes=Receive generic server messages
