@@ -44,7 +44,6 @@ general:
   encoding=UTF-8
   extendedListModes=false
   firstRun=true
-  hidequeries=true
   hidechannels=false
   kickmessage=Bye!
   logerrors=false
