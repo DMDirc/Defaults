@@ -170,6 +170,7 @@ ui:
   channelSplitPanePosition=150
   sortrootwindows=true
   sortchildwindows=true
+  typingindicator=true
 
 treeview:
   dragSelection=true
