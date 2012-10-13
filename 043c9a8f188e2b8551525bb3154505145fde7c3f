@@ -1,0 +1,9 @@
+Change-Id: I043c9a8f188e2b8551525bb3154505145fde7c3f
+Code-Review+2: Shane Mc Cormack <shane@dmdirc.com>
+Verified+1: Greg Holmes <greg@dmdirc.com>
+Automatic-Compile+1: DMDirc Local Commits <dmdirc@googlemail.com>
+Submitted-by: Shane Mc Cormack <shane@dmdirc.com>
+Submitted-at: Wed, 13 Jan 2010 18:16:39 +0100
+Reviewed-on: http://gerrit.dmdirc.com/487
+Project: defaults
+Branch: refs/heads/master

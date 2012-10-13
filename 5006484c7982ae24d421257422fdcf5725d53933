@@ -1,0 +1,9 @@
+Change-Id: I5006484c7982ae24d421257422fdcf5725d53933
+Automatic-Compile+1: Greg Holmes <greg@dmdirc.com>
+Code-Review+2: Greg Holmes <greg@dmdirc.com>
+Automatic-Compile+1: DMDirc Local Commits <dmdirc@googlemail.com>
+Submitted-by: Greg Holmes <greg@dmdirc.com>
+Submitted-at: Thu, 28 Jan 2010 23:08:26 +0100
+Reviewed-on: http://gerrit.dmdirc.com/696
+Project: defaults
+Branch: refs/heads/master
