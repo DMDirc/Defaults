@@ -30,6 +30,16 @@ server:
   moder=Registered channel
 
   modeg=Censored word
+  moded=Delayed message timeout
+  modef=Message flood protection
+  modeH=Show channel history
+  modej=Join flood protection
+  modeL=Channel redirection
+
+  modeX=Exempt Chan Ops list
+  modew=Channel Access list
+
+  umodeL=No automatic channel rediection
 
   modeD=Auditorium mode
   modeu=Hide all names
