@@ -58,7 +58,7 @@ general:
   rejoinchannels=true
   server=irc.quakenet.org
   showcolourdialog=true
-  showglobalwindow=false
+  showglobalwindow=true
   showrawwindow=false
   silencechar=.
   submitErrors=false
