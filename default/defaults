@@ -246,6 +246,7 @@ plugin-addonid:
   nowplaying=8
   osd=3
   redirect=4
+  serverlistdialog=74
   systray=5
   timeplugin=6
   urlcatcher=25
