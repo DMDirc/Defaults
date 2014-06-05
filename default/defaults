@@ -25,6 +25,7 @@ keysections:
   dialogstate
   browser
   commands
+  newserver
 
 identity:
   name=DMDirc default settings
@@ -317,3 +318,9 @@ browser:
 
 commands:
   join-tabexistingchannels=true
+
+newserver:
+  hostname=
+  port=6667
+  password=
+  ssl=false
